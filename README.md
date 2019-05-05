@@ -2,7 +2,7 @@
 Complex network research for CSD332
 
 ## Note
-The work on evolution, modelling and statistical study can be found within _Modeling.ipynb_. _Fit_powerlaw.ipynb_ includes the attempted quanittatively rigorous study of degree distributions of the three models. 
+The work on evolution, modelling and statistical study can be found within _Modeling.ipynb_. _Fit_powerlaw.ipynb_ includes the attempted quantitatively rigorous study of degree distributions of the three models. 
 
 ## Dataset source
 Kaggle: https://www.kaggle.com/sijovm/atpdata
